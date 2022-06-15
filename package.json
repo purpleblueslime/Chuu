@@ -1,0 +1,11 @@
+{
+  "name": "chuu",
+  "version": "1.0.0",
+  "description": "Chuu discord bot.",
+  "main": "bot.js",
+  "dependencies": {
+    "eris": "^0.17.0"
+  },
+  "author": "SLIME",
+  "license": "MIT"
+}
